@@ -1,25 +1,29 @@
 
-# Olá, eu sou o Cadu! 👋
+# Hi there, i'm Carlos Eduardo! 👋
+### About
+- 🚀 I'm a Web Developer. And, I'm studying Web Development at [<img align="center" height="80" width="150" src="https://www.rocketseat.com.br/assets/logos/rocketseat.svg"/>](https://www.rocketseat.com.br/) 
+- 🔭 Today I am looking for a job as a Web developer!
 
-- 🔭 Hoje estou em busca de um emprego como dev front-end
-- 🌱 Estudando HTML, CSS e Java Script...
-
-<div align="center">
-  
-<a href="https://github.com/CarlosLonghi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-  <div style="display: inline_block"><br>
+#### Current Stacks
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## 🚀 Sobre mim
-Eu sou um desenvolvedor Web Front End...
+#### Tools
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
-## 🔗 Link do meu Linkedin
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+#### Version Code Control
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+#### Layout Desing  
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+
+## Contact 💼 
+#### 📧 Email: [carloslonghi.cl@gmail.com](carloslonghi.cl@gmail.com)
+#### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/carlos-longhi-23b136164/))
 
