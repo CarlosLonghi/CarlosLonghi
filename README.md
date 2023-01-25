@@ -6,22 +6,32 @@
 
 #### Current Stacks
 <div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 #### Tools
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<div style="display: inline_block">
+ <img align="center" height="40" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4">
+</div>
 
 #### Version Code Control
 <div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" height="60" width="60" src="https://img.icons8.com/plasticine/512/github-squared.png">
+</div>
+
+#### Frameworks
+<div style="display: inline_block">
+  <img align="center" height="40" width="auto" src="https://www.fastify.io/images/fastify-logo-menu.d13f8da7a965c800.png">
+  <img align="center" height="40" width="auto" src="https://img.icons8.com/nolan/512/express-js.png">
+  <img align="center" height="40" width="auto" src="https://img.icons8.com/color/512/tailwindcss.png">
 </div>
 
 #### Layout Desing  
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
 ## Contact 💼 
 #### 📧 Email: [carloslonghi.cl@gmail.com](carloslonghi.cl@gmail.com)
