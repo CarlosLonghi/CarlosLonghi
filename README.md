@@ -14,14 +14,15 @@
 
 #### Tools
 <div style="display: inline_block">
- <img align="center" height="40" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4">
+ <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 #### Version Code Control
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" height="60" width="60" src="https://img.icons8.com/plasticine/512/github-squared.png">
+  <img align="center" height="70" width="70" src="https://img.icons8.com/plasticine/512/github-squared.png">
 </div>
 
 #### Frameworks
