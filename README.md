@@ -36,6 +36,8 @@
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   &nbsp;&nbsp;
+  <img align="center" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
+  &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4">
   &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
