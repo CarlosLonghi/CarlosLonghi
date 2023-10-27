@@ -31,6 +31,8 @@
   <img align="center" height="40" width="40" src="https://img.icons8.com/nolan/512/express-js.png">
   &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/512/tailwindcss.png">
+  &nbsp;&nbsp;
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/512/bootstrap.png">
 </div>
 
 ### Tools
