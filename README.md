@@ -1,17 +1,15 @@
 
 # Hi there, i'm Carlos Eduardo! 👋
 ## About
-- 🚀 I'm a Web Developer. And, I'm studying Web Development at &nbsp; [<img align="center" height="auto" width="150" src="https://www.rocketseat.com.br/assets/logos/rocketseat.svg"/>](https://www.rocketseat.com.br/)
-- 👨‍💻 Currently I working as a Junior Developer at &nbsp; [<img align="center" height="20" width="auto" src="https://www.digitalone.com.br/images/agencia-de-marketing-digital-one.png"/>](https://www.digitalone.com.br/)
-- 🔭 Today I am looking for a 🏡Home Office🏡 job as a Full Stack developer!
+- 🚀 I'm a Web Developer, and I'm studying Web Development at &nbsp; [<img align="center" height="auto" width="150" src="https://www.rocketseat.com.br/assets/logos/rocketseat.svg"/>](https://www.rocketseat.com.br/)
+- 👨‍💻  Currently, I am working as a Junior Developer at &nbsp; [<img align="center" height="20" width="auto" src="https://www.digitalone.com.br/images/agencia-de-marketing-digital-one.png"/>](https://www.digitalone.com.br/)
+- 🔭 Today, I am looking for a job 🏡Home Office🏡 as a Full Stack Developer!
 
 ### Current Stacks
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp;
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   &nbsp;&nbsp;
