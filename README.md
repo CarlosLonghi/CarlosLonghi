@@ -5,10 +5,11 @@
 - 👨‍💻  Currently, I am working as a Junior Developer at &nbsp; [<img align="center" height="20" width="auto" src="https://www.digitalone.com.br/images/agencia-de-marketing-digital-one.png" title="Digital One"/>](https://www.digitalone.com.br/)
 - 🔭 Today, I am looking for a job 🏡Home Office🏡 as a Full Stack Developer!
 
+&nbsp;&nbsp;
 ## Current Stacks
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP">
-  &nbsp;&nbsp;
+  &nbsp;
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" title="JavaScript">
   &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js">
@@ -18,8 +19,7 @@
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" title="CSS">
 </div>
 
-## Frameworks
-
+## Frameworks / Libraries
 ### Front-End
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="React">
@@ -68,7 +68,6 @@
 ## Layout Desing  
 <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma">
 &nbsp;&nbsp;
-
 
 ## Contact 💼 
 #### 📧 Email: [carloslonghi.cl@gmail.com](carloslonghi.cl@gmail.com)
