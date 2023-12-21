@@ -9,10 +9,10 @@
 ## Current Stacks
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP">
-  &nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" title="JavaScript">
   &nbsp;&nbsp;
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" title="TypeScript">
   &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="HTML5">
   &nbsp;&nbsp;
@@ -37,6 +37,8 @@
 
 ### Back-End
 <div style="display: inline_block">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js">
+  &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://img.icons8.com/nolan/512/express-js.png" alt="express js" title="Express.js">
   &nbsp;&nbsp;
   <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4)" alt="fastify" title="Fastify">
