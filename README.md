@@ -67,18 +67,20 @@
 
 ## Version Code Control
 <div style="display: inline_block">
-  <img align="center" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" title="Git">
+  
+  [<img align="center" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" title="Git">](https://git-scm.com/)
   &nbsp;&nbsp;
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" title="GitLab">
+  [<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" title="GitLab">](https://gitlab.com/)
   &nbsp;&nbsp;
-  <img align="center" height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" title="GitHub">
+  [<img align="center" height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" title="GitHub">](https://github.com/)
+  
 </div>
 
 ## Layout Desing  
-<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma">
+[<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma">](https://www.figma.com/)
 &nbsp;&nbsp;
 
 ## Contact 💼 
 #### 📧 Email: [carloslonghi.cl@gmail.com](carloslonghi.cl@gmail.com)
-#### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-longhi-23b136164/)
+#### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c4du-dev/)
 
