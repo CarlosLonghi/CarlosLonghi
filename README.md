@@ -5,7 +5,16 @@
 - 👨‍💻  Currently, I am working as a Junior Developer at &nbsp; [<img align="center" height="20" width="auto" src="https://www.digitalone.com.br/images/agencia-de-marketing-digital-one.png" title="Digital One"/>](https://www.digitalone.com.br/)
 - 🔭 Today, I am looking for a job 🏡Home Office🏡
 
-&nbsp;&nbsp;
+&nbsp;
+
+<div align="center">  
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
+
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&show_icons=true&count_private=true&hide_border=true&title_color=2f81f7&icon_color=238636&text_color=e6edf3&bg_color=0d1117" alt="Carlos Longhi" /> 
+</div>
+
+&nbsp;
+
 ## Current Stacks
 <div style="display: inline_block">
   
