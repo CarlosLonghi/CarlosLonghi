@@ -8,9 +8,9 @@
 &nbsp;
 
 <div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">  
-  <img width="45%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
+  <img width="45%" height="220px" style="min-height: 1000;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
 
-  <img width="54%" height="30%" src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&show_icons=true&count_private=true&hide_border=true&title_color=2f81f7&icon_color=238636&text_color=e6edf3&bg_color=0d1117" alt="Carlos Longhi" /> 
+  <img width="54%" height="220px" src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&show_icons=true&count_private=true&hide_border=true&title_color=2f81f7&icon_color=238636&text_color=e6edf3&bg_color=0d1117" alt="Carlos Longhi" /> 
 </div>
 
 &nbsp;
