@@ -1,23 +1,16 @@
 
-## Hi there, i'm Carlos Eduardo! 👋
-### About
-- 🚀 I'm a Web Developer, and I'm studying Web Development at &nbsp; [<img align="center" height="auto" width="150" src="https://cdn.worldvectorlogo.com/logos/rocketseat.svg" title="Rocketseat"/>](https://www.rocketseat.com.br/)
-- 👨‍💻  Currently, I am working as a Junior Developer at &nbsp; [<img align="center" height="20" width="auto" src="https://www.digitalone.com.br/images/agencia-de-marketing-digital-one.png" title="Digital One"/>](https://www.digitalone.com.br/)
-- 🔭 Today, I am looking for a job 🏡Home Office🏡
-
-&nbsp;
+#### Hi there, i'm Carlos Eduardo! 👋
+## Stats
 
 <div align="start" style="display: flex; flex-direction: column; gap: 60px;">  
   <div>
-    <img width="400px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
+    <img width="380px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
   </div>
 
   <div>
-    <img width="550px" height="auto" src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&show_icons=true&count_private=true&hide_border=true&title_color=2f81f7&icon_color=238636&text_color=e6edf3&bg_color=0d1117" alt="Carlos Longhi" /> 
+    <img width="450px" height="auto" src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&show_icons=true&count_private=true&hide_border=true&title_color=2f81f7&icon_color=238636&text_color=e6edf3&bg_color=0d1117" alt="Carlos Longhi" /> 
   </div>
 </div>
-
-&nbsp;
 
 ## Current Stacks
 <div style="display: inline_block">
