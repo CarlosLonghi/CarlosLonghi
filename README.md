@@ -8,7 +8,7 @@
 &nbsp;
 
 <div align="start" style="display: flex; flex-direction: column; gap: 60px;">  
-  <div style="">
+  <div>
     <img width="400px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
   </div>
 
