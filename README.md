@@ -2,11 +2,11 @@
 #### Hi there, i'm Carlos Eduardo! 👋
 ## Stats
 
-<div align="start" style="display: flex; flex-direction: column; gap: 60px;">  
+<div align="start" style="display: flex; flex-direction: column;">  
   <div>
-    <img width="380px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
+    <img width="360px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
   </div>
-
+  &nbsp;
   <div>
     <img width="450px" height="auto" src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&show_icons=true&count_private=true&hide_border=true&title_color=2f81f7&icon_color=238636&text_color=e6edf3&bg_color=0d1117" alt="Carlos Longhi" /> 
   </div>
