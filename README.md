@@ -1,5 +1,5 @@
 
-#### Hi there, i'm Carlos Eduardo! 👋
+#### Hi there, i'm Carlos Longhi! 👋
 ## Stats
 
 <div align="start" style="display: flex; flex-direction: column;">  
