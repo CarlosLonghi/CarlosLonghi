@@ -1,15 +1,16 @@
-
-#### Hi there, i'm Carlos Longhi! 👋
-## Stats
-
-<div align="start" style="display: flex; flex-direction: column;">  
-  <div>
-    <img width="360px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
-  </div>
-  <div>
-    <img width="450px" height="auto" src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&show_icons=true&count_private=true&hide_border=true&title_color=2f81f7&icon_color=238636&text_color=e6edf3&bg_color=0d1117" alt="Carlos Longhi" /> 
-  </div>
+<div align="center">
+  <h4>Hi there, i'm Carlos Longhi! 👋</h4>
 </div>
+
+## Stats
+<div align="center">  
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosLonghi&theme=transparent&hide_border=true&mode=weekly&card_width=600&dates=DDDDDD&currStreakLabel=FFFDFD)](https://git.io/streak-stats)
+  
+  <img width="400px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
+
+</div>
+
 
 ## Current Stacks
 <div style="display: inline_block">
@@ -26,10 +27,11 @@
   
 </div>
 
+
 ## Frameworks / Libraries
 ### Front-End
 <div style="display: inline_block">
-  
+    
   [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="React">](https://react.dev/)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://laravel.com/img/logomark.min.svg" alt="laravel" title="Laravel">](https://laravel.com/)
@@ -45,7 +47,7 @@
 </div>
 
 ### Back-End
-<div style="display: inline_block">
+<div style="display: inline_block;">
   
   [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js">](https://nodejs.org/en)
   &nbsp;&nbsp;
@@ -57,6 +59,7 @@
   &nbsp;&nbsp;
   
 </div>
+
 
 ## Tools
 <div style="display: inline_block">
