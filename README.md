@@ -34,6 +34,8 @@
     
   [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="React">](https://react.dev/)
   &nbsp;&nbsp;
+  [<img align="center" height="30" width="30" src="https://shorturl.at/mnyTW" alt="nextjs" title="NextJs">](https://nextjs.org/)
+  &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://laravel.com/img/logomark.min.svg" alt="laravel" title="Laravel">](https://laravel.com/)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://vitejs.dev/logo.svg" alt="vite" title="Vite">](https://vitejs.dev/)
@@ -43,7 +45,7 @@
   [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/tailwindcss.png" alt="tailwindcss" title="Tailwind CSS">](https://tailwindcss.com/)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/bootstrap.png" alt="bootstrap" title="Bootstrap">](https://getbootstrap.com/)
-  
+
 </div>
 
 ### Back-End
