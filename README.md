@@ -11,6 +11,7 @@
 
 </div>
 
+---
 
 ## Current Stacks
 <div style="display: inline_block">
@@ -90,6 +91,7 @@
 [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma">](https://www.figma.com/)
 &nbsp;&nbsp;
 
+---
 ## Contact 💼 
 #### 📧 Email: <a href="mailto:carloslonghi.cl@gmail.com">carloslonghi.cl@gmail.com</a>
 #### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c4du-dev/)
