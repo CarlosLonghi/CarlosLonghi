@@ -6,12 +6,13 @@
 <div align="center">  
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosLonghi&theme=transparent&hide_border=true&mode=weekly&card_width=600&dates=DDDDDD&currStreakLabel=FFFDFD)](https://git.io/streak-stats)
+
+  ---
   
   <img width="350px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
 
 </div>
 
----
 
 ## Current Stacks
 <div style="display: inline_block">
@@ -91,8 +92,9 @@
 [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma">](https://www.figma.com/)
 &nbsp;&nbsp;
 
----
 ## Contact 💼 
 #### 📧 Email: <a href="mailto:carloslonghi.cl@gmail.com">carloslonghi.cl@gmail.com</a>
 #### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c4du-dev/)
+
+---
 
