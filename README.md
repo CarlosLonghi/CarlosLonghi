@@ -2,12 +2,11 @@
   <h4>Hi there, i'm Carlos Longhi! 👋</h4>
 </div>
 
-## Stats
+---
+
 <div align="center">  
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosLonghi&theme=transparent&hide_border=true&mode=weekly&card_width=600&dates=DDDDDD&currStreakLabel=FFFDFD)](https://git.io/streak-stats)
-
-  ---
   
   <img width="350px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=2f81f7&text_color=e6edf3&bg_color=0d1117" />
 
