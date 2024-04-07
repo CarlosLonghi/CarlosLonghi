@@ -52,7 +52,7 @@
 ### Back-End
 <div style="display: inline_block;">
   
-  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js">](https://nodejs.org/en)
+  [<img align="center" height="30" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" title="Node.js">](https://nodejs.org/en)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://img.icons8.com/nolan/512/express-js.png" alt="express js" title="Express.js">](https://expressjs.com/)
   &nbsp;&nbsp;
