@@ -46,6 +46,8 @@
   [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/tailwindcss.png" alt="tailwindcss" title="Tailwind CSS">](https://tailwindcss.com/)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/bootstrap.png" alt="bootstrap" title="Bootstrap">](https://getbootstrap.com/)
+  &nbsp;&nbsp;
+  [<img align="center" height="30" width="30" src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" title="Shadcn/ui">](https://ui.shadcn.com/)
 
 </div>
 
@@ -74,6 +76,9 @@
   [<img align="center" height="30" width="30" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="npm" title="Npm">](https://www.npmjs.com/)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" title="Composer">](https://getcomposer.org/)
+  &nbsp;&nbsp;
+  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker">](https://www.docker.com/)
+  
 </div>
 
 ## Version Code Control
