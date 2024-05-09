@@ -36,8 +36,6 @@
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://shorturl.at/mnyTW" alt="nextjs" title="NextJs">](https://nextjs.org/)
   &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://laravel.com/img/logomark.min.svg" alt="laravel" title="Laravel">](https://laravel.com/)
-  &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://vitejs.dev/logo.svg" alt="vite" title="Vite">](https://vitejs.dev/)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://avatars.githubusercontent.com/u/64709442?s=200&v=4" alt="materialize css" title="Materialize CSS">](https://materializecss.com/)
@@ -54,6 +52,8 @@
 <div style="display: inline_block;">
   
   [<img align="center" height="30" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" title="Node.js">](https://nodejs.org/en)
+  &nbsp;&nbsp;
+  [<img align="center" height="30" width="30" src="https://laravel.com/img/logomark.min.svg" alt="laravel" title="Laravel">](https://laravel.com/)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://img.icons8.com/nolan/512/express-js.png" alt="express js" title="Express.js">](https://expressjs.com/)
   &nbsp;&nbsp;
