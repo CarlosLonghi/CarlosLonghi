@@ -92,8 +92,12 @@
 </div>
 
 ## Layout Desing  
-[<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma">](https://www.figma.com/)
-&nbsp;&nbsp;
+<div style="display: inline_block;">
+  
+  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma">](https://www.figma.com/)
+  &nbsp;&nbsp;
+  
+</div>
 
 ## Contact 💼 
 #### 📧 Email: <a href="mailto:carloslonghi.cl@gmail.com">carloslonghi.cl@gmail.com</a>
