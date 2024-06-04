@@ -15,7 +15,7 @@
 ## Current Stacks
 <div style="display: inline_block">
   
-  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP"/>](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
+  [<img align="center" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP"/>](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   &nbsp;&nbsp;
