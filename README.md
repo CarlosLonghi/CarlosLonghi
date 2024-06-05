@@ -2,7 +2,6 @@
   <h3>Hi there, i'm Carlos Longhi! 👋</h3>
 </div>
 
-
 <div align="center">  
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosLonghi&theme=transparent&hide_border=true&mode=weekly&card_width=450&dates=DDDDDD&currStreakLabel=FFFDFD)](https://git.io/streak-stats)
@@ -64,7 +63,6 @@
   
 </div>
 
-
 ## Tools
 <div style="display: inline_block">
   
@@ -102,4 +100,3 @@
 ## Contact 💼 
 #### 📧 Email: <a href="mailto:carloslonghi.cl@gmail.com">carloslonghi.cl@gmail.com</a>
 #### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c4du-dev/)
-
