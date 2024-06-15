@@ -68,11 +68,9 @@
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
   &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="npm" title="Npm">](https://www.npmjs.com/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" title="Composer">](https://getcomposer.org/)
-  &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker">](https://www.docker.com/)
+  &nbsp;&nbsp;
+  [<img align="center" height="30" width="30" src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" title="Filament">](https://filamentphp.com/)
   
 </div>
 
