@@ -37,8 +37,6 @@
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://vitejs.dev/logo.svg" alt="vite" title="Vite">](https://vitejs.dev/)
   &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://avatars.githubusercontent.com/u/64709442?s=200&v=4" alt="materialize css" title="Materialize CSS">](https://materializecss.com/)
-  &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/tailwindcss.png" alt="tailwindcss" title="Tailwind CSS">](https://tailwindcss.com/)
   &nbsp;&nbsp;
   [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/bootstrap.png" alt="bootstrap" title="Bootstrap">](https://getbootstrap.com/)
