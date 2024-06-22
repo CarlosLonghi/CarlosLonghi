@@ -26,72 +26,90 @@
   
 </div>
 
-
-## Frameworks / Libraries
-### Front-End
-<div style="display: inline_block">
+- **Front-End**
+  <div style="display: inline_block">
     
-  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="React">](https://react.dev/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://shorturl.at/mnyTW" alt="nextjs" title="NextJs">](https://nextjs.org/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://vitejs.dev/logo.svg" alt="vite" title="Vite">](https://vitejs.dev/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/tailwindcss.png" alt="tailwindcss" title="Tailwind CSS">](https://tailwindcss.com/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/bootstrap.png" alt="bootstrap" title="Bootstrap">](https://getbootstrap.com/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" title="Shadcn/ui">](https://ui.shadcn.com/)
+    [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="React">](https://react.dev/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://shorturl.at/mnyTW" alt="nextjs" title="NextJs">](https://nextjs.org/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://vitejs.dev/logo.svg" alt="vite" title="Vite">](https://vitejs.dev/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/tailwindcss.png" alt="tailwindcss" title="Tailwind CSS">](https://tailwindcss.com/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://img.icons8.com/color/512/bootstrap.png" alt="bootstrap" title="Bootstrap">](https://getbootstrap.com/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" title="Shadcn/ui">](https://ui.shadcn.com/)
+    
+  </div>
 
-</div>
+  - **Tests**
+    <div style="display: inline_block">
 
-### Back-End
-<div style="display: inline_block;">
-  
-  [<img align="center" height="30" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" title="Node.js">](https://nodejs.org/en)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://laravel.com/img/logomark.min.svg" alt="laravel" title="Laravel">](https://laravel.com/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://img.icons8.com/nolan/512/express-js.png" alt="express js" title="Express.js">](https://expressjs.com/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4)" alt="fastify" title="Fastify">](https://fastify.dev/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://static-00.iconduck.com/assets.00/knex-js-icon-512x512-a2yn0209.png" alt="knex js" title="Knex.js">](https://knexjs.org/)
-  &nbsp;&nbsp;
-  
-</div>
+      [<img align="center" height="30" width="30" src="https://www.cypress.io/favicon.svg" alt="cypress" title="Cypress">](https://www.cypress.io/)
 
-## Tools
-<div style="display: inline_block">
-  
-  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" title="Visual Studio Code">](https://code.visualstudio.com/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker">](https://www.docker.com/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" title="Filament">](https://filamentphp.com/)
-  
-</div>
+    </div>
 
-## Version Code Control
-<div style="display: inline_block">
+- **Back-End**
+  <div style="display: inline_block;">
   
-  [<img align="center" height="30" width="30" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" title="Git">](https://git-scm.com/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" title="GitLab">](https://gitlab.com/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" title="GitHub">](https://github.com/)
+    [<img align="center" height="30" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" title="Node.js">](https://nodejs.org/en)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://laravel.com/img/logomark.min.svg" alt="laravel" title="Laravel">](https://laravel.com/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://img.icons8.com/nolan/512/express-js.png" alt="express js" title="Express.js">](https://expressjs.com/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4)" alt="fastify" title="Fastify">](https://fastify.dev/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://static-00.iconduck.com/assets.00/knex-js-icon-512x512-a2yn0209.png" alt="knex js" title="Knex.js">](https://knexjs.org/)
+    &nbsp;&nbsp;
   
-</div>
+  </div>
 
-## Layout Desing  
-<div style="display: inline_block;">
+  - **Tests**
+    <div style="display: inline_block">
+
+      [<img align="center" height="30" width="30" src="https://vitest.dev/logo-shadow.svg" alt="vitest" title="Vitest">](https://vitest.dev/)
+
+    </div>
+
+- **Content Management System (CMS)**
+  <div style="display: inline_block">
+
+    [<img align="center" height="30" width="30" src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" title="Filament">](https://filamentphp.com/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="auto" src="https://voyager.devdojo.com/assets/images/logo_light.png" alt="voyager" title="Voyager">](https://voyager.devdojo.com/)
+
+  </div>
+
+- **Developer Tools**
+  <div style="display: inline_block">
   
-  [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma">](https://www.figma.com/)
-  &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" title="Visual Studio Code">](https://code.visualstudio.com/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker">](https://www.docker.com/)
   
-</div>
+  </div>
+
+- **Version Code Control**
+  <div style="display: inline_block">
+  
+    [<img align="center" height="30" width="30" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" title="Git">](https://git-scm.com/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" title="GitLab">](https://gitlab.com/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" title="GitHub">](https://github.com/)
+  
+  </div>
+
+- **Layout Desing**  
+  <div style="display: inline_block;">
+  
+    [<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma">](https://www.figma.com/)
+  
+  </div>
 
 ## Contact 💼 
 #### 📧 Email: <a href="mailto:carloslonghi.cl@gmail.com">carloslonghi.cl@gmail.com</a>
