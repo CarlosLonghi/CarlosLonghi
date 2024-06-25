@@ -11,20 +11,22 @@
 </div>
 
 
-## Current Stacks
-<div style="display: inline_block">
-  
-  [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP"/>](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" title="TypeScript">](https://www.typescriptlang.org/docs/)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="HTML5">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-  &nbsp;&nbsp;
-  [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" title="CSS">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-  
-</div>
+- #### Current Stacks
+  <div style="display: inline_block">
+    
+    [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP"/>](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" title="TypeScript">](https://www.typescriptlang.org/docs/)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="HTML5">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+    &nbsp;&nbsp;
+    [<img align="center" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" title="CSS">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+    
+  </div>
+
+---
 
 - **Front-End**
   <div style="display: inline_block">
@@ -72,6 +74,8 @@
       [<img align="center" height="30" width="auto" src="https://vitest.dev/logo-shadow.svg" alt="vitest" title="Vitest">](https://vitest.dev/)
 
     </div>
+
+---
 
 - **Content Management System (CMS)**
   <div style="display: inline_block">
