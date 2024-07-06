@@ -10,7 +10,7 @@
 
 </div>
 
-- #### Current Stacks
+- ### Current Stacks
 
   <div style="display: inline_block">
     
