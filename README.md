@@ -26,6 +26,8 @@
     
   </div>
 
+---
+
 - **Front-End**
   <div style="display: inline_block">
   
@@ -75,6 +77,8 @@
       [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vitest" alt="vitest" title="Vitest">](https://vitest.dev/)
 
     </div>
+
+---
 
 - **Content Management System (CMS)**
   <div style="display: inline_block">
