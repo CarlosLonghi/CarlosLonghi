@@ -120,7 +120,9 @@
   
   </div>
 
-## Contact 💼 
+---
+
+### Contact 💼 
 #### 📧 Email: <a href="mailto:carloslonghi.cl@gmail.com">carloslonghi.cl@gmail.com</a>
 #### 🌎 Site: <a href="https://cadudev.vercel.app">cadudev.vercel.app</a>
 #### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c4du-dev/)
