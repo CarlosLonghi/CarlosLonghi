@@ -19,10 +19,6 @@
     [<img src="https://skillicons.dev/icons?i=javascript" align="center" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
     &nbsp;
     [<img src="https://skillicons.dev/icons?i=typescript" align="center" alt="typescript" title="TypeScript">](https://www.typescriptlang.org/docs)
-    &nbsp;
-    [<img src="https://skillicons.dev/icons?i=html" align="center" alt="html" title="HTML">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-    &nbsp;
-    [<img src="https://skillicons.dev/icons?i=css" align="center" alt="css" title="CSS">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
     
   </div>
 
