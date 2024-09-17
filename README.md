@@ -19,7 +19,9 @@
     [<img src="https://skillicons.dev/icons?i=javascript" align="center" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
     &nbsp;
     [<img src="https://skillicons.dev/icons?i=typescript" align="center" alt="typescript" title="TypeScript">](https://www.typescriptlang.org/docs)
-    
+    &nbsp;
+    [<img src="https://skillicons.dev/icons?i=java" align="center" alt="java" title="Java">](https://www.java.com/pt-BR/)
+  
   </div>
 
 ---
@@ -53,9 +55,11 @@
 - **Back-End**
   <div style="display: inline_block;">
 
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node.js">](https://nodejs.org/en)
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=spring" alt="spring" title="Spring">](https://spring.io/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=laravel" alt="laravel" title="Laravel">](https://laravel.com/)
+    &nbsp;
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node.js">](https://nodejs.org/en)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=expressjs" alt="express js" title="Express.js">](https://expressjs.com/)
     &nbsp;
