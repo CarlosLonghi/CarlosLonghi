@@ -120,7 +120,7 @@
   
   </div>
 
----
+<br/>
 
 ## Contact 💼 
 #### 📧 Email: <a href="mailto:carloslonghi.cl@gmail.com" target="_blank">carloslonghi.cl@gmail.com</a>
