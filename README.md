@@ -33,6 +33,8 @@
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=next" alt="nextjs" title="NextJs">](https://nextjs.org/)
     &nbsp;
+    [<img align="center" height="40" width="auto" src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="livewire" title="Livewire">](https://laravel-livewire.com/)
+    &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite">](https://vitejs.dev/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" title="Tailwind CSS">](https://tailwindcss.com/)
