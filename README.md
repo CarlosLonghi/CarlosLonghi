@@ -1,11 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4432&duration=2800&pause=3000&size=38&center=false&vCenter=true&width=1000&height=44&lines=Hi+there,+i'm+Carlos+Longhi!+👋;Full+Stack+Developer+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4432&duration=2800&pause=3000&size=38&center=true&vCenter=true&width=1000&height=44&lines=Hi+there,+i'm+Carlos+Longhi!+👋;Full+Stack+Developer+💻;)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosLonghi&theme=shadow-orange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=EB4432&stroke=FF1D1D&ring=EB4432&fire=FF1D1D&currStreakLabel=EB4432&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=C6C6C6)](https://git.io/streak-stats)
+<div align="center">
 
-<img width="340px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=EBEBEB&text_color=C6C6C6&bg_color=0d1117" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosLonghi&theme=shadow-orange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=EB4432&stroke=FF1D1D&ring=EB4432&fire=FF1D1D&currStreakLabel=EB4432&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=C6C6C6)](https://git.io/streak-stats)
+  
+  <img width="340px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=EBEBEB&text_color=C6C6C6&bg_color=0d1117" />
 
+</div>
 
 - ### Current Stacks
 
