@@ -24,7 +24,7 @@
   
   </div>
 
----
+  <br>
 
 - **Front-End**
   <div style="display: inline_block">
@@ -84,7 +84,7 @@
 
     </div>
 
----
+<br>
 
 - **Content Management System (CMS)**
   <div style="display: inline_block">
