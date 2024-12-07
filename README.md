@@ -19,9 +19,9 @@
     [<img src="https://skillicons.dev/icons?i=javascript" align="center" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
     &nbsp;
     [<img src="https://skillicons.dev/icons?i=typescript" align="center" alt="typescript" title="TypeScript">](https://www.typescriptlang.org/docs)
-    &nbsp;
+    <!-- &nbsp;
     [<img src="https://skillicons.dev/icons?i=java" align="center" alt="java" title="Java">](https://www.java.com/pt-BR/)
-  
+    -->
   </div>
 
   <br>
