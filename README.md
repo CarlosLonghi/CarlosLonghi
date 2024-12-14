@@ -81,6 +81,8 @@
     <div style="display: inline_block">
 
       [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vitest" alt="vitest" title="Vitest">](https://vitest.dev/)
+      &nbsp;
+      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=jest" alt="jestjs" title="Jest">](https://jestjs.io/)
 
     </div>
 
