@@ -129,8 +129,11 @@
 <br/>
 
 ## Contact 💼 
+
 #### 📧 Email: <a href="mailto:carloslonghi.cl@gmail.com" target="_blank">carloslonghi.cl@gmail.com</a>
-#### 🌎 Site: <a href="https://cadudev.vercel.app" target="_blank">cadudev.vercel.app</a>
+
 #### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloslonghi/)
+
+#### [![profile](https://img.shields.io/badge/🌎%20Portfolio-238636?style=for-the-badge&logo=wolrd&logoColor=white)](https://carloslonghi.vercel.app)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=80&section=footer"/>
