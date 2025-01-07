@@ -37,66 +37,87 @@
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=astro" alt="astro" title="Astro">](https://astro.build/)
     &nbsp;
-    [<img align="center" height="40" width="auto" src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="livewire" title="Livewire">](https://livewire.laravel.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite">](https://vitejs.dev/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" title="Tailwind CSS">](https://tailwindcss.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=sass" alt="sass" title="SASS">](https://sass-lang.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap">](https://getbootstrap.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" title="Shadcn/ui">](https://ui.shadcn.com/)
-    
-  </div>
 
-  - **Tests**
-    <div style="display: inline_block">
-  
-      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=cypress" alt="cypress" title="Cypress">](https://www.cypress.io/)
-  
-    </div>
+    <details>
+    <summary>More</summary>
+      
+    - **Libs**
+      <div style="display: inline_block">
+
+        [<img align="center" height="40" width="auto" src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="livewire" title="Livewire">](https://livewire.laravel.com/)
+        &nbsp;
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite">](https://vitejs.dev/)
+        &nbsp;
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" title="Tailwind CSS">](https://tailwindcss.com/)
+        &nbsp;
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=sass" alt="sass" title="SASS">](https://sass-lang.com/)
+        &nbsp;
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap">](https://getbootstrap.com/)
+        &nbsp;
+        [<img align="center" height="40" width="auto" src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" title="Shadcn/ui">](https://ui.shadcn.com/)
+    
+      </div>
+
+    - **Tests**
+      <div style="display: inline_block">
+    
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=cypress" alt="cypress" title="Cypress">](https://www.cypress.io/)
+    
+      </div>
+    </details>
+  </div>
 
 - **Back-End**
   <div style="display: inline_block;">
 
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=spring" alt="spring" title="Spring">](https://spring.io/)
+    <!--[<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=spring" alt="spring" title="Spring">](https://spring.io/)
     &nbsp;
+    -->
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=laravel" alt="laravel" title="Laravel">](https://laravel.com/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node.js">](https://nodejs.org/en)
     &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=expressjs" alt="express js" title="Express.js">](https://expressjs.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4)" alt="fastify" title="Fastify">](https://fastify.dev/)
-    &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL">](https://www.mysql.com/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=postgres" alt="postgres" title="Postgres">](https://www.postgresql.org/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://static-00.iconduck.com/assets.00/knex-js-icon-512x512-a2yn0209.png" alt="knex js" title="Knex.js">](https://knexjs.org/)
+
+  <details>
+    <summary>More</summary>
+      
+    - **Libs**
+      <div style="display: inline_block">
+
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=expressjs" alt="express js" title="Express.js">](https://expressjs.com/)
+        &nbsp;
+        [<img align="center" height="40" width="auto" src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4)" alt="fastify" title="Fastify">](https://fastify.dev/)
+        &nbsp;
+        [<img align="center" height="40" width="auto" src="https://static-00.iconduck.com/assets.00/knex-js-icon-512x512-a2yn0209.png" alt="knex js" title="Knex.js">](https://knexjs.org/)
+    
+      </div>
+
+    - **Tests**
+      <div style="display: inline_block">
+    
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vitest" alt="vitest" title="Vitest">](https://vitest.dev/)
+        &nbsp;
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=jest" alt="jestjs" title="Jest">](https://jestjs.io/)
+    
+      </div>
+    </details>
   
   </div>
 
-  - **Tests**
-    <div style="display: inline_block">
-
-      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vitest" alt="vitest" title="Vitest">](https://vitest.dev/)
-      &nbsp;
-      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=jest" alt="jestjs" title="Jest">](https://jestjs.io/)
-
-    </div>
-
 <br>
 
-- **Content Management System (CMS)**
+- **Version Code Control**
   <div style="display: inline_block">
 
-    [<img align="center" height="40" width="auto" src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" title="Filament">](https://filamentphp.com/)
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=git" alt="git" title="Git">](https://git-scm.com/)
     &nbsp;
-    [<img align="center" height="40" width="auto" src="https://voyager.devdojo.com/assets/images/logo_light.png" alt="voyager" title="Voyager">](https://voyager.devdojo.com/)
-
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=github" alt="github" title="Github">](https://github.com/)
+    &nbsp;
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" title="Gitlab">](https://gitlab.com/)
+  
   </div>
 
 - **Developer Tools**
@@ -110,22 +131,20 @@
 
   </div>
 
-- **Version Code Control**
-  <div style="display: inline_block">
-
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=git" alt="git" title="Git">](https://git-scm.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=github" alt="github" title="Github">](https://github.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" title="Gitlab">](https://gitlab.com/)
-  
-  </div>
-
 - **Layout Desing**  
   <div style="display: inline_block;">
 
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma">](https://www.figma.com/)
   
+  </div>
+
+- **Content Management System (CMS)**
+  <div style="display: inline_block">
+
+    [<img align="center" height="40" width="auto" src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" title="Filament">](https://filamentphp.com/)
+    &nbsp;
+    [<img align="center" height="40" width="auto" src="https://voyager.devdojo.com/assets/images/logo_light.png" alt="voyager" title="Voyager">](https://voyager.devdojo.com/)
+
   </div>
 
 <br/>
