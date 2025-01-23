@@ -138,7 +138,7 @@
   
   </div>
 
-- ** Headless CMS (Content Management System)**
+- **Headless CMS (Content Management System)**
   <div style="display: inline_block">
 
     [<img align="center" height="40" width="auto" src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" title="Filament">](https://filamentphp.com/)
