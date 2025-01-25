@@ -4,7 +4,9 @@
 
 <div align="center">
 
+  <!--
   [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosLonghi&theme=shadow-orange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=EB4432&stroke=FF1D1D&ring=EB4432&fire=FF1D1D&currStreakLabel=EB4432&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=C6C6C6)](https://git.io/streak-stats)
+  -->
   
   <img width="340px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=EBEBEB&text_color=C6C6C6&bg_color=0d1117" />
 
@@ -29,14 +31,11 @@
 - **Front-End**
   <div style="display: inline_block">
   
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=react" alt="react" title="React">](https://react.dev/)
-    &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=next" alt="nextjs" title="NextJs">](https://nextjs.org/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vue" alt="vue" title="Vue">](https://vuejs.org/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=astro" alt="astro" title="Astro">](https://astro.build/)
-    &nbsp;
 
     <details>
     <summary>More</summary>
@@ -44,6 +43,8 @@
     - **Libs**
       <div style="display: inline_block">
 
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=react" alt="react" title="React">](https://react.dev/)
+        &nbsp;
         [<img align="center" height="40" width="auto" src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="livewire" title="Livewire">](https://livewire.laravel.com/)
         &nbsp;
         [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite">](https://vitejs.dev/)
@@ -125,7 +126,7 @@
 
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vscode" alt="vs code" title="Visual Studio Code">](https://code.visualstudio.com/)
     &nbsp;
-    [<img align="center" height="40" width="auto" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
+    [<img align="center" height="40" width="auto" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker">](https://www.docker.com/)
 
