@@ -126,6 +126,8 @@
 
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vscode" alt="vs code" title="Visual Studio Code">](https://code.visualstudio.com/)
     &nbsp;
+    [<img align="center" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="intellij_idea" title="IntelliJ IDEA">](https://www.jetbrains.com/pt-br/idea/)
+    &nbsp;
     [<img align="center" height="40" width="auto" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker">](https://www.docker.com/)
