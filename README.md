@@ -7,6 +7,8 @@
   <!--
   [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosLonghi&theme=shadow-orange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=EB4432&stroke=FF1D1D&ring=EB4432&fire=FF1D1D&currStreakLabel=EB4432&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=C6C6C6)](https://git.io/streak-stats)
   -->
+
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&locale=en&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
   
   <img width="340px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=EBEBEB&text_color=C6C6C6&bg_color=0d1117" />
 
