@@ -4,10 +4,6 @@
 
 <div align="center">
 
-  <!--
-  [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosLonghi&theme=shadow-orange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&sideLabels=EB4432&stroke=FF1D1D&ring=EB4432&fire=FF1D1D&currStreakLabel=EB4432&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=C6C6C6)](https://git.io/streak-stats)
-  -->
-
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&locale=en&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
   
   <img width="340px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=EBEBEB&text_color=C6C6C6&bg_color=0d1117" />
@@ -20,12 +16,12 @@
     
     [<img src="https://skillicons.dev/icons?i=php" align="center" alt="php" title="PHP">](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
     &nbsp;
+    [<img src="https://skillicons.dev/icons?i=java" align="center" alt="java" title="Java">](https://www.java.com/pt-BR/)
+    &nbsp;
     [<img src="https://skillicons.dev/icons?i=javascript" align="center" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
     &nbsp;
     [<img src="https://skillicons.dev/icons?i=typescript" align="center" alt="typescript" title="TypeScript">](https://www.typescriptlang.org/docs)
-    <!-- &nbsp;
-    [<img src="https://skillicons.dev/icons?i=java" align="center" alt="java" title="Java">](https://www.java.com/pt-BR/)
-    -->
+    
   </div>
 
   <br>
@@ -73,9 +69,8 @@
 - **Back-End**
   <div style="display: inline_block;">
 
-    <!--[<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=spring" alt="spring" title="Spring">](https://spring.io/)
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=spring" alt="spring" title="Spring">](https://spring.io/)
     &nbsp;
-    -->
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=laravel" alt="laravel" title="Laravel">](https://laravel.com/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node.js">](https://nodejs.org/en)
