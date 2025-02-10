@@ -153,7 +153,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/carloslonghi/)
 &nbsp;
-[![profile](https://img.shields.io/badge/🌎%20Portfolio-238636?style=for-the-badge&logoColor=white)](https://carloslonghi.vercel.app)
+[![profile](https://img.shields.io/badge/🌎%20Portfolio-238636?style=for-the-badge&logoColor=white)](https://carloslonghi.com.br)
 &nbsp;
 [![profile](https://img.shields.io/badge/E-mail-4267B2?style=for-the-badge&logoColor=white)](mailto:carloslonghi.cl@gmail.com)
 
