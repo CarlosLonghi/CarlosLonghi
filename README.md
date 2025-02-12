@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4432&duration=2800&pause=3000&size=38&center=true&vCenter=true&width=1000&height=44&lines=Hi+there,+i'm+Carlos+Longhi!+👋;Full+Stack+Developer+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4432&duration=2800&pause=3000&size=38&center=true&vCenter=true&width=1000&height=44&lines=Olá,+sou+Carlos+Longhi!+👋;Desenvolvedor+Full+Stack+💻;)](https://git.io/typing-svg)
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&locale=en&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0d1117&text_color=EBEBEB&icon_color=238636" height="180" alt="stats graph"  />
   
-  <img width="340px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&hide_border=true&title_color=EBEBEB&text_color=C6C6C6&bg_color=0d1117" />
+  <img width="340px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=EBEBEB&text_color=EBEBEB&bg_color=0d1117" />
 
 </div>
 
-- ### Current Stacks
+- ### Principais Linguagens
 
   <div style="display: inline_block">
     
@@ -36,9 +36,9 @@
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=astro" alt="astro" title="Astro">](https://astro.build/)
 
     <details>
-    <summary>More</summary>
+    <summary>Mais</summary>
       
-    - **Libs**
+    - **Bibliotecas**
       <div style="display: inline_block">
 
         [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=react" alt="react" title="React">](https://react.dev/)
@@ -57,7 +57,7 @@
     
       </div>
 
-    - **Tests**
+    - **Testes**
       <div style="display: inline_block">
     
         [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=cypress" alt="cypress" title="Cypress">](https://www.cypress.io/)
@@ -80,9 +80,9 @@
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=postgres" alt="postgres" title="Postgres">](https://www.postgresql.org/)
 
   <details>
-    <summary>More</summary>
+    <summary>Mais</summary>
       
-    - **Libs**
+    - **Bibliotecas**
       <div style="display: inline_block">
 
         [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=expressjs" alt="express js" title="Express.js">](https://expressjs.com/)
@@ -93,7 +93,7 @@
     
       </div>
 
-    - **Tests**
+    - **Testes**
       <div style="display: inline_block">
     
         [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vitest" alt="vitest" title="Vitest">](https://vitest.dev/)
@@ -107,7 +107,7 @@
 
 <br>
 
-- **Version Code Control**
+- **Controle de Versão de Código**
   <div style="display: inline_block">
 
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=git" alt="git" title="Git">](https://git-scm.com/)
@@ -118,7 +118,7 @@
   
   </div>
 
-- **Developer Tools**
+- **Ferramentas de Desenvolvimento**
   <div style="display: inline_block">
 
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vscode" alt="vs code" title="Visual Studio Code">](https://code.visualstudio.com/)
@@ -131,14 +131,14 @@
 
   </div>
 
-- **Layout Desing**  
+- **Ferramenta de Layout Desing**  
   <div style="display: inline_block;">
 
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma">](https://www.figma.com/)
   
   </div>
 
-- **Headless CMS (Content Management System)**
+- **Headless CMS (Sistema de Gerenciamento de Conteúdo)**
   <div style="display: inline_block">
 
     [<img align="center" height="40" width="auto" src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" title="Filament">](https://filamentphp.com/)
@@ -149,7 +149,7 @@
 
 <br/>
 
-## Contact 💼 
+## Contato 💼 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/carloslonghi/)
 &nbsp;
