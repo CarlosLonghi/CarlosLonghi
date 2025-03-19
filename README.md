@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4432&duration=2800&pause=3000&size=38&center=true&vCenter=true&width=1000&height=44&lines=Olá,+sou+Carlos+Longhi!+👋;Desenvolvedor+Full+Stack+💻;)](https://git.io/typing-svg)
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosLonghi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0d1117&text_color=EBEBEB&icon_color=238636" height="180" alt="stats graph"  />
   
   <img width="340px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=EBEBEB&text_color=EBEBEB&bg_color=0d1117" />
 
