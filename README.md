@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4432&duration=2800&pause=3000&size=38&center=true&vCenter=true&width=1000&height=44&lines=Olá,+sou+Carlos+Longhi!+👋;Desenvolvedor+Full+Stack+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4432&duration=2800&pause=1800&size=38&center=true&vCenter=true&width=1000&height=44&lines=Seja+Bem+Vindo!+👋;Sou+Carlos+Longhi!;Desenvolvedor+Full+Stack+💻;)](https://git.io/typing-svg)
 
 <div align="center">
   
-  <img width="340px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=EBEBEB&text_color=EBEBEB&bg_color=0d1117" />
+  <img width="360px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=EBEBEB&text_color=EBEBEB&bg_color=0d1117" />
 
 </div>
 
@@ -100,50 +100,55 @@
     
       </div>
     </details>
-  
   </div>
 
 <br>
 
-- **Controle de Versão de Código**
-  <div style="display: inline_block">
+<div>
+  <details>
+    <summary>Outros</summary>
 
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=git" alt="git" title="Git">](https://git-scm.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=github" alt="github" title="Github">](https://github.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" title="Gitlab">](https://gitlab.com/)
+  - **Controle de Versão de Código**
+    <div style="display: inline_block">
   
-  </div>
+      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=git" alt="git" title="Git">](https://git-scm.com/)
+      &nbsp;
+      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=github" alt="github" title="Github">](https://github.com/)
+      &nbsp;
+      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" title="Gitlab">](https://gitlab.com/)
+    
+    </div>
 
-- **Ferramentas de Desenvolvimento**
-  <div style="display: inline_block">
-
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vscode" alt="vs code" title="Visual Studio Code">](https://code.visualstudio.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="intellij_idea" title="IntelliJ IDEA">](https://www.jetbrains.com/pt-br/idea/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker">](https://www.docker.com/)
-
-  </div>
-
-- **Ferramenta de Layout Desing**  
-  <div style="display: inline_block;">
-
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma">](https://www.figma.com/)
+  - **Ferramentas de Desenvolvimento**
+    <div style="display: inline_block">
   
-  </div>
+      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vscode" alt="vs code" title="Visual Studio Code">](https://code.visualstudio.com/)
+      &nbsp;
+      [<img align="center" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="intellij_idea" title="IntelliJ IDEA">](https://www.jetbrains.com/pt-br/idea/)
+      &nbsp;
+      [<img align="center" height="40" width="auto" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
+      &nbsp;
+      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker">](https://www.docker.com/)
+  
+    </div>
 
-- **Headless CMS (Sistema de Gerenciamento de Conteúdo)**
-  <div style="display: inline_block">
+  - **Ferramenta de Layout Desing**  
+    <div style="display: inline_block;">
+  
+      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma">](https://www.figma.com/)
+    
+    </div>
 
-    [<img align="center" height="40" width="auto" src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" title="Filament">](https://filamentphp.com/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://voyager.devdojo.com/assets/images/logo_light.png" alt="voyager" title="Voyager">](https://voyager.devdojo.com/)
+  - **CMS (Sistemas de Gerenciamento de Conteúdo)**
+    <div style="display: inline_block;">
 
-  </div>
+      [<img align="center" height="40" width="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWYYkCs6hBITA_gnNXiYXHpWDTL0CgL9OWA&s" alt="strapi" title="Strapi">](https://strapi.io/)
+      &nbsp;
+      [<img align="center" height="40" width="auto" src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" title="Filament">](https://filamentphp.com/)
+  
+    </div>
+  </details>
+</div>
 
 <br/>
 
