@@ -22,8 +22,6 @@
     
   </div>
 
-  <br>
-
 - **Front-End**
   <div style="display: inline_block">
   
