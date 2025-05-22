@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4432&duration=2800&pause=1800&size=38&center=true&vCenter=true&width=1000&height=44&lines=Seja+Bem+Vindo!+👋;Sou+Carlos+Longhi!;Desenvolvedor+Full+Stack+💻;)](https://git.io/typing-svg)
-
 <div align="center">
   
   <img width="360px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=EBEBEB&text_color=EBEBEB&bg_color=0d1117" />
