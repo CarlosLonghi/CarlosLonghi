@@ -82,8 +82,6 @@
         [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=expressjs" alt="express js" title="Express.js">](https://expressjs.com/)
         &nbsp;
         [<img align="center" height="40" width="auto" src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4)" alt="fastify" title="Fastify">](https://fastify.dev/)
-        &nbsp;
-        [<img align="center" height="40" width="auto" src="https://static-00.iconduck.com/assets.00/knex-js-icon-512x512-a2yn0209.png" alt="knex js" title="Knex.js">](https://knexjs.org/)
     
       </div>
 
