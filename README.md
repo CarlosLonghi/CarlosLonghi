@@ -66,9 +66,9 @@
     - **Testes**
       <div style="display: inline_block">
     
-        [<img align="center" height="40" width="auto" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" title="JUnit">](https://junit.org/junit5/)
+        [<img align="center" height="35" width="auto" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" title="JUnit">](https://junit.org/junit5/)
         &nbsp;
-        [<img align="center" height="40" width="auto" src="https://phpunit.de/img/phpunit.svg" alt="phpunit" title="PHPUnit">](https://phpunit.de/index.html)
+        [<img align="center" height="35" width="auto" src="https://phpunit.de/img/phpunit.svg" alt="phpunit" title="PHPUnit">](https://phpunit.de/index.html)
     
       </div>
   </div>
