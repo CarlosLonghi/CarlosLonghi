@@ -20,6 +20,8 @@
     
   </div>
 
+---
+
 - **Front-End**
   <div style="display: inline_block">
   
@@ -52,6 +54,8 @@
       </div>
   </div>
 
+---
+  
 - **Back-End**
   <div style="display: inline_block">
   
@@ -73,7 +77,7 @@
       </div>
   </div>
 
-<br>
+---
 
 <div>
   <details>
