@@ -9,10 +9,10 @@
 - ### Principais Linguagens
 
   <div style="display: inline_block">
-    
-    [<img src="https://skillicons.dev/icons?i=php" align="center" alt="php" title="PHP">](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
-    &nbsp;
+
     [<img src="https://skillicons.dev/icons?i=java" align="center" alt="java" title="Java">](https://www.java.com/pt-BR/)
+    &nbsp;
+    [<img src="https://skillicons.dev/icons?i=php" align="center" alt="php" title="PHP">](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
     &nbsp;
     [<img src="https://skillicons.dev/icons?i=javascript" align="center" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
     &nbsp;
