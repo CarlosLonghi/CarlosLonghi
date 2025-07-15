@@ -72,7 +72,7 @@
     
         [<img align="center" height="35" width="auto" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" title="JUnit">](https://junit.org/junit5/)
         &nbsp;
-        [<img align="center" height="35" width="auto" src="https://phpunit.de/img/phpunit.svg" alt="phpunit" title="PHPUnit">](https://phpunit.de/index.html)
+        [<img align="center" height="35" width="auto" src="https://cdn.statically.io/gh/Chimarrao/CodeBR-img/img/images/internas/phpunit-ea902369.webp" alt="phpunit" title="PHPUnit">](https://phpunit.de/index.html)
     
       </div>
   </div>
