@@ -28,6 +28,9 @@
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vue" alt="vue" title="Vue">](https://vuejs.org/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=nuxt" alt="nuxt" title="Nuxt">](https://nuxt.com/)
+    &nbsp;
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=react" alt="react" title="React">](https://react.dev/)
+    &nbsp;
       
     - **Bibliotecas**
       <div style="display: inline_block">
