@@ -1,8 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=80&section=header"/>
 
 <div align="center">
-  
+
+  <div>
+  <img src="https://streak-stats.demolab.com?user=CarlosLonghi&theme=slateorange&hide_border=true&locale=pt_BR&mode=weekly&type=png" alt="GitHub Streak" />
+  </div>
+
+  <div>
   <img width="360px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=EBEBEB&text_color=EBEBEB&bg_color=0d1117" />
+  </div>
 
 </div>
 
