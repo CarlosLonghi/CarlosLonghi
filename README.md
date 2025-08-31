@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=90&section=header"/>
 
 <div align="center">
 
@@ -146,4 +146,4 @@
 &nbsp;
 [![profile](https://img.shields.io/badge/E-mail-4267B2?style=for-the-badge&logoColor=white)](mailto:carloslonghi.cl@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=90&section=footer"/>
