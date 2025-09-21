@@ -2,11 +2,8 @@
 
 <div style="display: inline_block">
 
-  
   <img src="https://streak-stats.demolab.com?user=CarlosLonghi&theme=github-dark&hide_border=true&locale=pt_BR&hide_current_streak=true&hide_longest_streak=true&type=png" alt="GitHub Streak" />
-  
-  <img width="360px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />  
 
 </div>
 
