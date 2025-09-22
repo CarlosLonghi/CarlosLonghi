@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=90&section=header"/>
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=CarlosLonghi&theme=github-dark&hide_border=true&locale=pt_BR&card_width=400&hide_current_streak=true&hide_longest_streak=true&type=png" alt="GitHub Streak" />
-  <img width=340px src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />  
+  <img width=360px src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />  
 
 </div>
 
