@@ -26,7 +26,6 @@
   <div style="display: inline_block">
   
     <!-- [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=angular" alt="angular" title="Angular">](https://angular.dev/) -->
-    teste
 
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vue" alt="vue" title="Vue">](https://vuejs.org/)
     &nbsp;
