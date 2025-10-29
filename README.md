@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=90&section=header"/>
 
-<div align="center">
-
-  <img width=360px src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />  
-
-</div>
+[![An image of @carloslonghi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carloslonghi)](https://holopin.io/@carloslonghi)
 
 - ### Principais Linguagens
 
@@ -19,6 +15,8 @@
     [<img src="https://skillicons.dev/icons?i=typescript" align="center" alt="typescript" title="TypeScript">](https://www.typescriptlang.org/docs)
     
   </div>
+  
+<!-- <img width=360px src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLonghi&layout=compact&locale=pt-br&hide_border=true&hide_title=true&text_color=FFF&bg_color=0d1117" />   -->
 
 ---
 
