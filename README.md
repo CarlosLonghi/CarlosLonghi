@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=80&section=header"/>
 
 [![An image of @carloslonghi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carloslonghi)](https://holopin.io/@carloslonghi)
 
@@ -139,4 +139,4 @@
 &nbsp;
 [![profile](https://img.shields.io/badge/E-mail-4267B2?style=for-the-badge&logoColor=white)](mailto:carloslonghi.cl@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB4432&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=80&section=footer"/>
