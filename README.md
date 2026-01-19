@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=80&section=header"/>
 
+**Emblemas HacktoberFest 2025:**
+
 [![An image of @carloslonghi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carloslonghi)](https://holopin.io/@carloslonghi)
+
+---
 
 - ### Principais Linguagens
 
