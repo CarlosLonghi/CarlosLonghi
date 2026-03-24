@@ -12,8 +12,6 @@
 
     [<img src="https://skillicons.dev/icons?i=java" align="center" alt="java" title="Java">](https://www.java.com/pt-BR/)
     &nbsp;
-    [<img src="https://skillicons.dev/icons?i=php" align="center" alt="php" title="PHP">](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
-    &nbsp;
     [<img src="https://skillicons.dev/icons?i=javascript" align="center" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
     &nbsp;
     [<img src="https://skillicons.dev/icons?i=typescript" align="center" alt="typescript" title="TypeScript">](https://www.typescriptlang.org/docs)
@@ -27,11 +25,7 @@
 - **Front-End**
   <div style="display: inline_block">
   
-    <!-- [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=angular" alt="angular" title="Angular">](https://angular.dev/) -->
-
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vue" alt="vue" title="Vue">](https://vuejs.org/)
-    &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=nuxt" alt="nuxt" title="Nuxt">](https://nuxt.com/)
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=angular" alt="angular" title="Angular">](https://angular.dev/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=react" alt="react" title="React">](https://react.dev/)
     &nbsp;
@@ -47,14 +41,14 @@
         [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap">](https://getbootstrap.com/)
         &nbsp;
         [<img align="center" height="40" width="auto" src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" title="Shadcn/ui">](https://ui.shadcn.com/)
-        &nbsp;
-        [<img align="center" height="40" width="auto" src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="livewire" title="Livewire">](https://livewire.laravel.com/)
 
       </div>
 
     - **Testes**
       <div style="display: inline_block">
-    
+
+        [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=vitest" alt="vitest" title="Vitest">](https://vitest.dev/)
+        &nbsp;
         [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=cypress" alt="cypress" title="Cypress">](https://www.cypress.io/)
         &nbsp;
         [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=jest" alt="jestjs" title="Jest">](https://jestjs.io/)
@@ -69,8 +63,6 @@
   
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=spring" alt="vue" title="Spring">](https://spring.io/)
     &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=laravel" alt="laravel" title="Laravel">](https://laravel.com/)
-    &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL">](https://www.mysql.com/)
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=postgres" alt="postgresql" title="PostgreSQL">](https://www.postgresql.org/)
@@ -84,7 +76,7 @@
     
         [<img align="center" height="35" width="auto" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" title="JUnit">](https://junit.org/junit5/)
         &nbsp;
-        [<img align="center" height="35" width="auto" src="https://cdn.statically.io/gh/Chimarrao/CodeBR-img/img/images/internas/phpunit-ea902369.webp" alt="phpunit" title="PHPUnit">](https://phpunit.de/index.html)
+        [<img align="center" height="35" width="auto" src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="mockito" title="Mockito">](https://site.mockito.org/)
     
       </div>
   </div>
@@ -113,7 +105,7 @@
       &nbsp;
       [<img align="center" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="intellij_idea" title="IntelliJ IDEA">](https://www.jetbrains.com/pt-br/idea/)
       &nbsp;
-      [<img align="center" height="40" width="auto" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
+      [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=postman" alt="postman" title="Postman">](https://www.postman.com/)
       &nbsp;
       [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker">](https://www.docker.com/)
   
@@ -145,6 +137,6 @@
 &nbsp;
 [![profile](https://img.shields.io/badge/🌎%20Portfolio-238636?style=for-the-badge&logoColor=white)](https://carloslonghi.com.br)
 &nbsp;
-[![profile](https://img.shields.io/badge/E-mail-4267B2?style=for-the-badge&logoColor=white)](mailto:carloslonghi.cl@gmail.com)
+[![profile](https://img.shields.io/badge/E-mail-4267B2?style=for-the-badge&logoColor=white)](mailto:carloslonghi.dev@gmail.com)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=80&section=footer"/>
