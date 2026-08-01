@@ -67,9 +67,11 @@
     &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=postgres" alt="postgresql" title="PostgreSQL">](https://www.postgresql.org/)
     &nbsp;
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB">](https://www.mongodb.com/)
+    &nbsp;
     [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=redis" alt="redis" title="Redis">](https://redis.io/pt/)
     &nbsp;
-    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB">](https://www.mongodb.com/)
+    [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" title="RabbitMQ">](https://www.rabbitmq.com/)
 
     - **Testes**
       <div style="display: inline_block">
